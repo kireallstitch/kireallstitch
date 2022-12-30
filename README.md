@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @kireallstitch
-- 👀 I’m interested in ... computer games, learning to program
-- 🌱 I’m currently learning ... Python, PHP, SQL, 1C
-- 💞️ I’m looking to collaborate on ... in any sphere
-- 📫 How to reach me ... telegramm @kireall_stitch
